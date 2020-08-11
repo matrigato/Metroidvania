@@ -1,2 +1,2 @@
 # Metroidvania
-Yago is our god
+Simple metroidvania-like game
